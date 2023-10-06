@@ -44,7 +44,7 @@ public class AppointmentBook {
      * or returns -1 if no such block is found.
      * @param period 1 <= period <= 8.
      * @param duration 1 <= duration <= 60
-     * @return
+     *
      */
     public int findFreeMinute(int period, int duration)
     {
